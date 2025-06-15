@@ -1,2 +1,1 @@
-# jovac
-Jovac by Coding Block
+jovac by coding block
