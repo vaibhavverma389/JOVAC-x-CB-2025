@@ -43,7 +43,5 @@ This repository contains all the code, assignments, and project work completed a
 - Postman
 - Deployment: Netlify / Vercel / Render / Railway
 
----
 
-## 📁 Repository Structure
 
