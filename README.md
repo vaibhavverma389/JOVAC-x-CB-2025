@@ -12,7 +12,7 @@ This repository contains all the code, assignments, and project work completed a
 
 ---
 
-##📅 Timeline
+📅 Timeline
 
 - **Training Phase:** June 10 – July 31  
 - **Project Phase:** August – November
