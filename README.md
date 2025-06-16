@@ -1,4 +1,4 @@
-**About**
+## About
 This repository contains my learning journey in fullstack development. I am currently learning and practicing various web development technologies to become a fullstack developer.
 💻 Full Stack Development - JOVAC Internship
 
