@@ -8,7 +8,7 @@ setTimeout(()=>{
 
 setTimeout(()=>{
     console.log("add water");
-},0679);
+},1679);
 
 setTimeout(()=>{
     console.log("add maggi");
