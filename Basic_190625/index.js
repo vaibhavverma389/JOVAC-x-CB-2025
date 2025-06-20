@@ -18,7 +18,7 @@ setTimeout(()=>{
     console.log("add masala");
 },9506)
 setTimeout(() => {
-    console.log("serve on plate");
+    console.log(" serve on plate");
     
     
 }, 1000)
