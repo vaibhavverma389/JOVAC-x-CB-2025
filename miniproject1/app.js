@@ -71,9 +71,7 @@ async function fetchData(username) {
     document.getElementById("type").textContent = "User not found";
     document.getElementById("lastdate").textContent = "##/##/####";
     document.getElementById("so").textContent = "User not found";
-    document.querySelectorAll(".a").forEach(function(el) {
-    el.style.color = "red";
-  });
+    
 
   }
 }
