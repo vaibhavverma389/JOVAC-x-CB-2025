@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>GitHub Profile Viewer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h2>GitHub Profile Viewer</h2>
+    <form id="searchdata">
+      <div class="inline">
+        <label for="takeusername"> <h3>GitHub Username</h3> </label>
+      <input type="text" id="takeusername" placeholder="Enter username" required />
+      <button type="search">Search</button>
+      </div>
+
+      
+    </form>
+
+    <div id="profile">
+      <div  class="pic"> 
+        <img id="avatar" src="" alt="Avatar" style="display:none" />
+      </div>
+      <br>
+      <div class="info">
+      <h3>Name:         <span id="name" class="a"></span></h3>
+      <h3>Email:        <span id="email" class="a"></span></h3>
+      <h3>Username:     <span id="uname" class="a"></span></h3>
+      <h3>Location:     <span id="location" class="a"></span></h3>
+      <h3>Blog:         <span id="blog" class="a"></span></h3>
+      <h3>Company:      <span id="company" class="a"></span></h3>
+      <h3>Followers:    <span id="followers" class="a"></span></h3>
+      <h3>Following:    <span id="following" class="a"></span></h3>
+      <h3>Public Repos: <span id="public_repos" class="a"></span></h3>
+      <h3>Joined:       <span id="jdate" class="a"></span></h3>
+      <h3>Last Active:  <span id="lastdate" class="a"></span> </h3>
+      <h3>User Type:    <span id="type" class="a"></span></h3>
+      <h3>Twitter:      <span id="so" class="a"></span></h3>
+      </div>
+    </div>
+    
+
+    <div id="repos"></div>
+  </div>
+  <div class="thank">
+    Thank you for visiting! — Vaibhav Verma
+    
+
+  </div>
+  <br>
+
+  <br><br><br><br>
+  <script src="app.js"></script>
+</body>
+</html>
